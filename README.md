@@ -2,7 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.6.
 
-Proof of concept of Angular 4 Redux - ngrx store 
+Proof of concept of Angular 4 Redux - ngrx store
+
+Tutorial from @https://github.com/seeschweiler available on 
+https://www.youtube.com/watch?v=5NWClfa8PUQ 
 
 ## Development server
 
