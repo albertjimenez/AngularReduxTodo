@@ -7,6 +7,8 @@ Proof of concept of Angular 4 Redux - ngrx store
 Tutorial from @https://github.com/seeschweiler available on 
 https://www.youtube.com/watch?v=5NWClfa8PUQ 
 
+ONLINE ON: https://albertjimenez.github.io/AngularReduxTodo/
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
